@@ -1,7 +1,7 @@
 # Обход блокировки Discord'а и Youtube'а
 
 ## Гайд
-Скачайте последний [релиз](https://github.com/stapizxc/Discord-FIX/releases/tag/1.1.1), разархивируйте в отдельную папку
+Скачайте последний [релиз](https://github.com/stapizxc/Discord-FIX/releases), разархивируйте в отдельную папку
 
 Запустите **от имени администратора** то, что вам нужно:
 
